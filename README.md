@@ -120,6 +120,7 @@ is a programming language.
 ## 4. ANALYSIS AND RESULTS
 
 Table 1. Multivariate Normality Test
+
 <img width="480" alt="Multivariate Normality Test" src="https://user-images.githubusercontent.com/26927158/228971070-d5258a05-19d5-4cdf-8289-c25f811c471f.png">
 
 Ho: The data are suitable for multivariate normal distributions.
@@ -128,8 +129,17 @@ Hı: The data are not suitable for multivariate normal distribution.
 
 When the results are considered in general, since the p values are higher than 0.05, there is not multiple normal distribution at the 95% confidence level. In factor analysis, multiple normal distributions should not be observed among the data. Thats mean, Hı is accepted. 
 
+Table 2. Quartiles
 
+<img width="864" alt="Quartiles" src="https://user-images.githubusercontent.com/26927158/228977005-85aa3fdf-756c-46a3-aedb-2b17e1cd16ab.png">
 
+Minimum values, quartiles, averages and values of our table variables above.
+maximum values are given.
+It is seen that the 3rd quartile and the maximum value are 5 in all variables.
+When a data set is sorted from largest to smallest or smallest to largest, it is in the first 25%
+the remaining 1st quartile, the portion containing 50% of it, the 2nd quartile, that is, the square, 75% of it
+The part containing it is the 3rd quartile.)
+If the variables in the table are ranked from smallest to largest in terms of means; 8<7<2=4=6<3<10<9<5<1
 
 
 
