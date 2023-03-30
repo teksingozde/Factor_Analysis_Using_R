@@ -119,6 +119,16 @@ is a programming language.
 
 ## 4. ANALYSIS AND RESULTS
 
+Table 1. Multivariate Normality Test
+<img width="480" alt="Multivariate Normality Test" src="https://user-images.githubusercontent.com/26927158/228971070-d5258a05-19d5-4cdf-8289-c25f811c471f.png">
+
+Ho: The data are suitable for multivariate normal distributions.
+
+Hı: The data are not suitable for multivariate normal distribution.
+
+When the results are considered in general, since the p values are higher than 0.05, there is not multiple normal distribution at the 95% confidence level. In factor analysis, multiple normal distributions should not be observed among the data. Thats mean, Hı is accepted. 
+
+
 
 
 
