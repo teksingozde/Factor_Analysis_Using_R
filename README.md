@@ -119,7 +119,7 @@ is a programming language.
 
 ## 4. ANALYSIS AND RESULTS
 
-Table 1. Multivariate Normality Test
+##### Table 1. Multivariate Normality Test
 
 <img width="480" alt="Multivariate Normality Test" src="https://user-images.githubusercontent.com/26927158/228971070-d5258a05-19d5-4cdf-8289-c25f811c471f.png">
 
@@ -129,17 +129,37 @@ Hı: The data are not suitable for multivariate normal distribution.
 
 When the results are considered in general, since the p values are higher than 0.05, there is not multiple normal distribution at the 95% confidence level. In factor analysis, multiple normal distributions should not be observed among the data. Thats mean, Hı is accepted. 
 
-Table 2. Quartiles
+##### Table 2. Descriptive Statistics
+<img width="560" alt="Descriptive Statistics" src="https://user-images.githubusercontent.com/26927158/229610314-c02a00a9-007f-4f93-8bae-a63092113c3b.png">
 
-<img width="864" alt="Quartiles" src="https://user-images.githubusercontent.com/26927158/228977005-85aa3fdf-756c-46a3-aedb-2b17e1cd16ab.png">
-
-Minimum values, quartiles, averages and values of our table variables above.
-maximum values are given.
+Minimum values, quartiles, averages and values of our table variables above maximum values are given.
 It is seen that the 3rd quartile and the maximum value are 5 in all variables.
-When a data set is sorted from largest to smallest or smallest to largest, it is in the first 25%
-the remaining 1st quartile, the portion containing 50% of it, the 2nd quartile, that is, the square, 75% of it
-The part containing it is the 3rd quartile.)
+When a data set is sorted from largest to smallest or smallest to largest, it is in the first 25% the remaining 1st quartile, the portion containing 50% of it, the 2nd quartile, that is, the square, 75% of it the part containing it is the 3rd quartile.)
+
 If the variables in the table are ranked from smallest to largest in terms of means; 8<7<2=4=6<3<10<9<5<1
+
+##### Table 3. Correlation Matrix
+<img width="788" alt="Correlation Matrix" src="https://user-images.githubusercontent.com/26927158/229610870-5ae1240b-6dbf-49e0-a160-3d73c5d6f8b1.png">
+
+When our Spearman correlation coefficient variables are ordinal, or used when at least one of our variables is not normally distributed. in research
+our variables are not categorical, they are ordered. For this reason, the Spearman ordinal coefficient correlation matrix was created.
+When the correlation coefficients are examined, it is generally seen that the correlation degrees are moderate.
+It is seen that the variables are in the same direction with each other. correlation
+It is desirable in terms of research that the coefficients are not weak.
+
+##### Table 4. Barttlet Test
+<img width="200" alt="Chi-Square Test" src="https://user-images.githubusercontent.com/26927158/229611258-ef63586c-2a0f-425e-bec1-c5f3f200fba6.png">
+
+Although our pvalues vary in the study, two p(sig) values are less than 0.05 in the program, the result of the Bartlett test is significant.
+
+In other words, there is a correlation between the variables.
+
+Ho: R=I (There is no correlation between variables.)
+
+Hı: R≠I (There is correlation between variables.)
+
+Since p(sig)= 5.151349e-44 < 0.05 (Ho reject), at 95% significance level there is correlation between variables.
+
 
 
 
