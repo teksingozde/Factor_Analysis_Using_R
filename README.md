@@ -160,8 +160,10 @@ Hı: R≠I (There is correlation between variables.)
 
 Since p(sig)= 5.151349e-44 < 0.05 (Ho reject), at 95% significance level there is correlation between variables.
 
+##### Table 5. KMO Test
+<img width="500" alt="KMO Test" src="https://user-images.githubusercontent.com/26927158/230744558-f49df0d2-fd1b-4c43-9942-c2222bd8f0a7.png">
 
-
+Our KMO value is greater than 0.78>0.5 and therefore our sample size is factor enough for us to do the analysis.
 
 
 
