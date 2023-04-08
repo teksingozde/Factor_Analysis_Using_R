@@ -34,3 +34,7 @@ eigen(correlation)
 install.packages("nFactors")
 library(nFactors)
 scree(correlation,hline=-1) #hline=-1 draw a horizontal line at -1
+
+# Total Variance Explained 
+pc <- prcomp(Factor_Analysis_Survey_Dataset, scale.=F)
+summary(pc)
