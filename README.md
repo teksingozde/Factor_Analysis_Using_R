@@ -172,9 +172,10 @@ Our KMO value is greater than 0.78>0.5 and therefore our sample size is factor e
 
 Those with eigenvalues greater than 1 show us how many factors there are. Self when we look at the values, there are 3 eigenvalues greater than 1, that is, it is seen that there are 3 factors.
 
+##### Chart 4. Scree Plot
+<img width="550" alt="Scree Plot" src="https://user-images.githubusercontent.com/26927158/230744771-e03e9fed-bf93-4ff1-9259-1f778a0f2edc.png">
 
-
-
+Both factor analysis and principal component analysis in the graph the resulting factors are shown together. There were 3 factors with an eigenvalue of 1 and more than 1.
 
 
 
