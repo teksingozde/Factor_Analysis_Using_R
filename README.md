@@ -160,15 +160,22 @@ Hı: R≠I (There is correlation between variables.)
 
 Since p(sig)= 5.151349e-44 < 0.05 (Ho reject), at 95% significance level there is correlation between variables.
 
+##### Table 5. KMO Test
+<img width="500" alt="KMO Test" src="https://user-images.githubusercontent.com/26927158/230744558-f49df0d2-fd1b-4c43-9942-c2222bd8f0a7.png">
 
+Our KMO value is greater than 0.78>0.5 and therefore our sample size is factor enough for us to do the analysis.
 
+##### Table 6. Finding Eigenvalues and Eigenvectors 
+<img width="800" alt="Eigen Values" src="https://user-images.githubusercontent.com/26927158/230744644-f16cbe02-1fdd-4501-b1d3-d2a7f84917e4.png">
 
+<img width="925" alt="Vectors" src="https://user-images.githubusercontent.com/26927158/230744656-eb7115ec-0cde-4087-aa41-ade44860ce15.png">
 
+Those with eigenvalues greater than 1 show us how many factors there are. Self when we look at the values, there are 3 eigenvalues greater than 1, that is, it is seen that there are 3 factors.
 
+##### Chart 4. Scree Plot
+<img width="550" alt="Scree Plot" src="https://user-images.githubusercontent.com/26927158/230744771-e03e9fed-bf93-4ff1-9259-1f778a0f2edc.png">
 
-
-
-
+Both factor analysis and principal component analysis in the graph the resulting factors are shown together. There were 3 factors with an eigenvalue of 1 and more than 1.
 
 
 
