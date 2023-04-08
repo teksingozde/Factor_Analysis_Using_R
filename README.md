@@ -165,8 +165,12 @@ Since p(sig)= 5.151349e-44 < 0.05 (Ho reject), at 95% significance level there i
 
 Our KMO value is greater than 0.78>0.5 and therefore our sample size is factor enough for us to do the analysis.
 
+##### Table 6. Finding Eigenvalues and Eigenvectors 
+<img width="800" alt="Eigen Values" src="https://user-images.githubusercontent.com/26927158/230744644-f16cbe02-1fdd-4501-b1d3-d2a7f84917e4.png">
 
+<img width="925" alt="Vectors" src="https://user-images.githubusercontent.com/26927158/230744656-eb7115ec-0cde-4087-aa41-ade44860ce15.png">
 
+Those with eigenvalues greater than 1 show us how many factors there are. Self when we look at the values, there are 3 eigenvalues greater than 1, that is, it is seen that there are 3 factors.
 
 
 
