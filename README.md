@@ -189,6 +189,34 @@ When the values with a standard deviation greater than 1 are examined, it is see
 - The third factor explains 74.5% of the total variance.
 - The rate of explaining the total variance of the factors (74.5%) is quite good. Usually this value should not fall below 50%.
 
+##### Table 8. Principal Component Analysis
+<img width="600" alt="Principal Component Method" src="https://user-images.githubusercontent.com/26927158/230796204-c6811938-7def-4d13-a5bf-85d6ae7906ea.png">
+
+In the table above, the factors were found by the principal components method and the variables were factor in which they are found is shown in bold.
+
+In addition to factor loads, common variances are also shown with h2 in the table. h2 partner it shows the variance, that is, h2. Common variances are the weights of the variables in each factor.
+
+It is found by taking and adding squares.
+
+The result for the variable S1 is h**2 =(0.70)**2 +(-0.24)**2 +(0.15)**2 =0.57.
+Common variance values are expected to be above 0.50. Otherwise the low common variance cannot be explained by the factor or factors. Variables with low variance subtracted and reanalyzed, there will be an increase in both the KMO value and the explained variance will be higher.
+- 57% of the variation in the S1 variable is explained by factors.
+- 67% of the change in the S2 variable is explained by the factors.
+- 80% of the variation in the S3 variable is explained by factors.
+- 76% of the change in S4 variable is explained by factors.
+- 63% of the change in the S5 variable is explained by factors.
+- 70% of the variation in the S6 variable is explained by factors.
+- 50% of the variation in the S7 variable is explained by factors.
+- 85% of the variation in the S8 variable is explained by factors.
+- 91% of the variation in the S9 variable is explained by factors.
+- 90% of the variation in the S10 variable is explained by factors.
+u**2 =1-h**2 and the part of the change in the variables that cannot be explained by the factors means.
+The table shows the SS loadings eigenvalues. They are 4.96, 1.27 and 1.06 respectively. Since they are greater than 1, there are 3 factors.
+Explanation rate of variances was 50% in the 1st factor, 13% in the 2nd factor and in the 3rd factor. It is 11%.
+The cumulative variances were 50% for the 1st factor, 63% for the 2nd factor and 74% for the 3rd factor.
+The explanatory rate of the 1st factor was 68%, the 2nd factor was 17% and the 3rd factor was explained. The disclosure rate is 14%.
+The cumulative disclosure rate of the 1st factor is 68%, the cumulative disclosure rate of the 2nd factor 86%, the cumulative disclosure rate of the 3rd factor is 100%.
+
 
 
 
