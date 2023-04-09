@@ -177,6 +177,17 @@ Those with eigenvalues greater than 1 show us how many factors there are. Self w
 
 Both factor analysis and principal component analysis in the graph the resulting factors are shown together. There were 3 factors with an eigenvalue of 1 and more than 1.
 
+##### Table 7. Total Variance Explained 
+<img width="750" alt="Total Variance Explained" src="https://user-images.githubusercontent.com/26927158/230745119-186eedaf-7e2c-441f-add8-80fba2ee4e78.png">
+
+It is the table showing the level of explanation of the total variance with the principal components method.
+In the table, the square root of the eigenvalues is taken and written as standard deviation.
+When the values with a standard deviation greater than 1 are examined, it is seen that there are 3 factors.
+
+- The 1st factor explains 48.6% of the total variance.
+- The second factor explains 62.4% of the total variance.
+- The third factor explains 74.5% of the total variance.
+- The rate of explaining the total variance of the factors (74.5%) is quite good. Usually this value should not fall below 50%.
 
 
 
