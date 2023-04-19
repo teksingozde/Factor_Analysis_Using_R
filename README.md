@@ -217,8 +217,10 @@ The cumulative variances were 50% for the 1st factor, 63% for the 2nd factor and
 The explanatory rate of the 1st factor was 68%, the 2nd factor was 17% and the 3rd factor was explained. The disclosure rate is 14%.
 The cumulative disclosure rate of the 1st factor is 68%, the cumulative disclosure rate of the 2nd factor 86%, the cumulative disclosure rate of the 3rd factor is 100%.
 
+## 5. Conclusion Factors Table 
+<img width="650" alt="Screen Shot 2023-04-19 at 4 58 27 PM" src="https://user-images.githubusercontent.com/26927158/233209395-2f53afc5-edc4-4d95-9d51-fa46fe434738.png">
 
-
+In the table above, the table was created as a result of the answers given by the people belonging to the 3 tables. Each factor has different goals and answers.
 
 
 
